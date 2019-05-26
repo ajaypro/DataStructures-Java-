@@ -9,3 +9,4 @@
 * Undo & Redo functionality of any application using doubly linkedlist - It stores the previous operation in previous node with two
 pointers next and previous, which also will store the next operation in next node with previous pointer refering to previous node and next
 pointer refering to null . 
+* A music player which has next and previous buttons.
